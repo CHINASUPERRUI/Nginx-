@@ -1,6 +1,8 @@
+#All所有源笔记下载地址   
+https://github.com/CHINASUPERRUI/server
+
 #CentOS系统下搭建各种服务    
 All..
-
 
 #CentOS_x64_6.5_安装JDK   
 内容包括卸载默认的系统自带的JDK,或者已经安装的JDK；
